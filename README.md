@@ -26,8 +26,8 @@ Hi, I’m QuantumByte 👋
 <!-- REPO_LIST_START -->
 
 - [VectoraServer](https://github.com/Hardrivetech/VectoraServer) — A minimal custom Minecraft Java Edition server written in C. · `C` · ⭐ 1
-- [Hardrivetech.github.io](https://github.com/Hardrivetech/Hardrivetech.github.io) —  · `HTML` · ⭐ 0
 - [Hardrivetech](https://github.com/Hardrivetech/Hardrivetech) —  · `Python` · ⭐ 0
+- [Hardrivetech.github.io](https://github.com/Hardrivetech/Hardrivetech.github.io) —  · `HTML` · ⭐ 0
 - [ACS](https://github.com/Hardrivetech/ACS) —  · `JavaScript` · ⭐ 0
 - [minerBuild](https://github.com/Hardrivetech/minerBuild) —  · `C++` · ⭐ 0
 - [ProgrammaticSEO](https://github.com/Hardrivetech/ProgrammaticSEO) —  · `JavaScript` · ⭐ 0
