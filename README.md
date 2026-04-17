@@ -20,7 +20,7 @@ Hi, I’m QuantumByte 👋
 - [QubitOS](https://github.com/Hardrivetech/QubitOS) — A minimal operating system written in NASM assembly.
 - [minerBuild](https://github.com/Hardrivetech/minerBuild) — C++ tooling and build work.
 - [project-automation-template](https://github.com/Hardrivetech/project-automation-template) — Automates issue creation from a YAML roadmap.
-- [fastflow](https://github.com/Hardrivetech/fastflow) — Frontend (Svelte) with a live demo: https://fast-flow-dev.vercel.app
+- [fastflow](https://github.com/Hardrivetech/fastflow) — Frontend (Svelte) with a live demo: https://fastflow-orcin.vercel.app
 
 ## 📌 Featured projects
 <!-- REPO_LIST_START -->
