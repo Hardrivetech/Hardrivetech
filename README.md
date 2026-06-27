@@ -32,8 +32,4 @@ C, C++, Rust, Python, Assembly, FL Studio
 
 ## 📫 Contact
 - GitHub: [Hardrivetech](https://github.com/Hardrivetech)
-- Studio: DriveBy Studios
-
----
-
-Extra assets & badges: see `profile/badges.md`
+- Studio: [DriveBy Studios](https://github.com/Driveby-Studios)
