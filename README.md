@@ -25,10 +25,6 @@ Hi, I’m QuantumByte 👋
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardrivetech&layout=compact&theme=tokyonight" alt="Top languages"/>
 </p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hardrivetech&theme=onedark" alt="Trophies"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hardrivetech&theme=react-dark" alt="Streak"/>
-</p>
 
 ## 🛠️ Tech & Tools
 C, C++, Rust, Python, Assembly, FL Studio
