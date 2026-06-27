@@ -12,12 +12,13 @@ Hi, I’m QuantumByte 👋
 
 ## 🔭 I’m currently working on
 - [Carnage Engine](https://github.com/Driveby-Studios/CarnageEngine-Public) — Custom Proprietary, high-performance game engine built for Through the Eyes of Carnage.
-- [CiPhyxs](https://github.com/Driveby-Studios/CiPhyxs) — CiPhyxs is a high-performance, open-source physics engine
+- [CiPhyxs](https://github.com/Driveby-Studios/CiPhyxs) — High-performance, open-source physics engine.
+- [KineticSync](https://github.com/Driveby-Studios/KineticSync) — high-velocity, engine-agnostic networking framework.
 - Through the Eyes of Carnage — First-person high-intensity action game.
 
 ## 📌 Featured projects
-- [CiPhyxs](https://github.com/Driveby-Studios/CiPhyxs) — CiPhyxs is a high-performance, open-source physics engine
-
+- [CiPhyxs](https://github.com/Driveby-Studios/CiPhyxs) — High-performance, open-source physics engine.
+- [KineticSync](https://github.com/Driveby-Studios/KineticSync) — high-velocity, engine-agnostic networking framework.
 
 ## 📊 Live stats
 <p align="center">
