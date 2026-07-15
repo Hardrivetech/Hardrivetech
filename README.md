@@ -21,7 +21,7 @@ Hi, I’m QuantumByte 👋
 - [KineticSync](https://github.com/Driveby-Studios/KineticSync) — high-velocity, engine-agnostic networking framework.
 
 ## 🛠️ Tech & Tools
-C, C++, Rust, Python, Assembly, FL Studio
+C++, Python, Assembly
 
 ## 📫 Contact
 - GitHub: [Hardrivetech](https://github.com/Hardrivetech)
