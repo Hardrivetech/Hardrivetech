@@ -20,13 +20,6 @@ Hi, I’m QuantumByte 👋
 - [CiPhyxs](https://github.com/Driveby-Studios/CiPhyxs) — High-performance, open-source physics engine.
 - [KineticSync](https://github.com/Driveby-Studios/KineticSync) — high-velocity, engine-agnostic networking framework.
 
-## 📊 Live stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hardrivetech&show_icons=true&theme=tokyonight" alt="Hardrivetech's GitHub stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hardrivetech&layout=compact&theme=tokyonight" alt="Top languages"/>
-</p>
-
-
 ## 🛠️ Tech & Tools
 C, C++, Rust, Python, Assembly, FL Studio
 
